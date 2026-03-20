@@ -1,0 +1,10 @@
+{
+  "obsidian-open-in-other-editor:open-in-other-editor-vscode": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ]
+}
