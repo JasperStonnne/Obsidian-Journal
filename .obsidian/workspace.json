@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c82d58083a23a004",
+        "id": "b67b0fa9c8d45585",
         "type": "tabs",
         "children": [
           {
-            "id": "72f9aae6a15e8be9",
+            "id": "115a146137f0f675",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Journal/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2026-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-03-20 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -109,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2026-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-03-20 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -152,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2026-03-20.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-20 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -174,18 +171,29 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "templates:插入模板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b5c3e925f6fdbfd8",
   "lastOpenFiles": [
     "欢迎.md",
+    "Journal/2026-03-21.typ.md",
+    "Journal/2026-03-21.typ",
+    "Journal/Templates/Daily_Template.typ",
+    "Journal/2026-03-20.typ.md",
+    "Journal/image-1.png",
+    "Journal/image.png",
+    "Journal/2026-03-20.t2026p[.md",
+    "Journal/2026-03-20.t2026p.md",
+    "Journal/Templates/Daily_Template.typ.md",
+    "未命名.md",
     "Journal/2026-03-20.md",
+    "Journal/2026-03-20.typ",
     "未命名.base",
     "未命名 1.base",
-    "Journal/Templates/Daily_Template.typ.md",
     "Journal/Templates",
     "Journal"
   ]
