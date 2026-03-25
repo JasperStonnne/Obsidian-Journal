@@ -11,7 +11,7 @@
 // 日记大标题
 #align(center)[
   #text(size: 24pt, weight: "bold")[ Jasper笔记] \
-  #text(size: 14pt, fill: gray)[_"FPG 流弊"_]
+  #text(size: 14pt, fill: gray)[_"这一切都将消逝，只有瞬间永存"_]
 ]
 
 #v(1cm) // 增加间距
