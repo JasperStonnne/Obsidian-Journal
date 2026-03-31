@@ -25,4 +25,4 @@
 
 ---
 
-#align(center)[#text(gray, size: 9pt)[Powered by Typst & Gemini Expert Team]]
+#align(center)[#text(gray, size: 9pt)[Powered by Typst ]]
